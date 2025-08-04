@@ -88,7 +88,7 @@ For macOS users, you need to navigate to the Keychain Access application and sea
 The macOS OAuth tokens have a very short lifespan and are not refreshed by Ariana. If you encounter a 401 error when using the agent, please repeat the manual setup.
 
 #### Awareness 🔒
-We do not store your Claude credentials in any database. The only purpose of having them is to allow you to use your Claude subscription on our VMs, and unfortunately, this is the most secure existing way to do this as of August 2024. Your credentials are stored only on your machine and then transferred to the VM directly by Ariana acting as a proxy.
+We do not store your Claude credentials in any database. The only purpose of having them is to allow you to use your Claude subscription on our VMs, and unfortunately, this is the most secure existing way to do this as of August 2025. Your credentials are stored only on your machine and then transferred to the VM directly by Ariana acting as a proxy.
 
 
 ### Authentication 🔑
